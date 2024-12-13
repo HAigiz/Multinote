@@ -1,5 +1,6 @@
 # Multinote
 ![Static Badge](https://img.shields.io/badge/Python-3.12-green)
+![Static Badge](https://img.shields.io/badge/tkinter-blue)
 
 ---
 ## Описание 
