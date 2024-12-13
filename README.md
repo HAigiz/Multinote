@@ -1,6 +1,11 @@
 # Multinote
 ![Static Badge](https://img.shields.io/badge/Python-3.12-green)
+
+![Static Badge](https://img.shields.io/badge/postgresql-16-orange)
+
 ![Static Badge](https://img.shields.io/badge/tkinter-blue)
+
+![Static Badge](https://img.shields.io/badge/psycopg2-blue)
 
 ---
 ## Описание 
